@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://blog.baifan97.cn</id>
+    <id>http://baifan97.github.io</id>
     <title>WhiteFan&apos;s Blog</title>
-    <updated>2020-07-02T10:46:24.818Z</updated>
+    <updated>2020-07-03T05:19:43.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://blog.baifan97.cn"/>
-    <link rel="self" href="http://blog.baifan97.cn/atom.xml"/>
+    <link rel="alternate" href="http://baifan97.github.io"/>
+    <link rel="self" href="http://baifan97.github.io/atom.xml"/>
     <subtitle>多想有专属于一个人的时间</subtitle>
-    <logo>http://blog.baifan97.cn/images/avatar.png</logo>
-    <icon>http://blog.baifan97.cn/favicon.ico</icon>
+    <logo>http://baifan97.github.io/images/avatar.png</logo>
+    <icon>http://baifan97.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, WhiteFan&apos;s Blog</rights>
     <entry>
         <title type="html"><![CDATA[新的一天，预定好心情]]></title>
-        <id>http://blog.baifan97.cn/7GADH4VXs/</id>
-        <link href="http://blog.baifan97.cn/7GADH4VXs/">
+        <id>http://baifan97.github.io/7GADH4VXs/</id>
+        <link href="http://baifan97.github.io/7GADH4VXs/">
         </link>
         <updated>2020-07-02T00:26:59.000Z</updated>
         <content type="html"><![CDATA[<p>😄</p>
@@ -21,17 +21,17 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[公众号粉丝量统计图]]></title>
-        <id>http://blog.baifan97.cn/3CfzRrIWG/</id>
-        <link href="http://blog.baifan97.cn/3CfzRrIWG/">
+        <id>http://baifan97.github.io/3CfzRrIWG/</id>
+        <link href="http://baifan97.github.io/3CfzRrIWG/">
         </link>
         <updated>2020-07-01T15:15:34.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="http://blog.baifan97.cn/post-images/1593616592503.jpg" alt="" loading="lazy"></figure>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="http://baifan97.github.io/post-images/1593616592503.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[认识实习第一天 9.16]]></title>
-        <id>http://blog.baifan97.cn/ren-shi-shi-xi-di-yi-tian-9160/</id>
-        <link href="http://blog.baifan97.cn/ren-shi-shi-xi-di-yi-tian-9160/">
+        <id>http://baifan97.github.io/ren-shi-shi-xi-di-yi-tian-9160/</id>
+        <link href="http://baifan97.github.io/ren-shi-shi-xi-di-yi-tian-9160/">
         </link>
         <updated>2019-09-17T11:48:56.000Z</updated>
         <content type="html"><![CDATA[<p>上学期上导论课的时候就非常期待董辉老师带我们去实习，毕竟董老师上课那么幽默有趣，使我从对这个专业一点也不了解到了解到一点点，也让我对道桥越来越感兴趣。<br>
